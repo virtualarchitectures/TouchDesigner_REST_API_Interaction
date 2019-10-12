@@ -1,2 +1,2 @@
-# TouchDesigner_API_Call
+# TouchDesigner API Call
 A repository demonstrating how to handle Rest API calls in Touch Designer
